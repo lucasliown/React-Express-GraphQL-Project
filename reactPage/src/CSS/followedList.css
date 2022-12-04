@@ -1,0 +1,86 @@
+.listHeight {
+  max-height: 43.8rem;
+}
+
+.listHeightFollowing {
+  max-height: 19.2rem;
+}
+
+.listWidth {
+  max-width: 25rem;
+}
+
+.makeItFlex {
+  display: flex !important;
+}
+
+.boaderChange {
+  border: none !important;
+}
+
+.changeBackgroundColor:hover {
+  background-color: rgba(232, 236, 237, 0.573);
+}
+
+.listCharacter {
+  font-family: Arial, Helvetica, sans-serif !important;
+  color: rgb(126, 121, 121) !important;
+  font-weight: bold !important;
+  text-decoration: none;
+}
+
+.followHiddenscoll {
+  overflow-x: hidden !important;
+}
+
+.followAccountSize {
+  font-size: 1.6rem;
+  color: rgb(126, 121, 121);
+  text-decoration: none;
+}
+
+.changeAccountSize:hover {
+  color: rgb(126, 121, 121) !important ;
+}
+
+.headerCharacter {
+  font-family: Arial, Helvetica, sans-serif !important;
+  color: rgb(97, 94, 94) !important;
+  font-weight: bold !important;
+}
+
+.refresh {
+  color: rgb(130, 124, 124);
+  border: none;
+  background-color: inherit;
+  font-size: 1.27rem;
+  margin-left: -1rem;
+}
+
+.refreshChange:hover {
+  color: rgba(128, 128, 128, 0.349);
+  /* cursor: pointer; */
+}
+
+.moveTitle {
+  margin-top: 0.02rem !important;
+}
+
+.unfollow {
+  color: rgb(130, 124, 124);
+  border: none;
+  background-color: inherit;
+  font-size: 1.27rem;
+  margin-left: -2rem;
+}
+
+.unfollowChange:hover {
+  color: rgba(128, 128, 128, 0.349);
+  /* cursor: pointer; */
+}
+
+.followAccountSizeChange {
+  font-size: 1.65rem !important;
+  color: rgb(126, 121, 121);
+  text-decoration: none;
+}

@@ -1,0 +1,108 @@
+.move {
+  margin-top: 6rem;
+}
+
+.backgroundColor {
+  background-color: rgba(246, 246, 241, 0.592);
+}
+
+.tableBackgroundColor {
+  background-color: rgba(232, 228, 228, 0.147) !important;
+}
+
+.navbackground {
+  background-color: rgb(235, 233, 232);
+}
+
+.cardColor1 {
+  background-color: rgba(168, 246, 247, 0.204) !important;
+}
+
+.cardColor2 {
+  background-color: rgba(218, 247, 168, 0.204) !important;
+}
+
+.cardColor3 {
+  background-color: rgba(243, 185, 141, 0.139) !important;
+}
+
+.cardColor4 {
+  background-color: rgba(207, 195, 186, 0.139) !important;
+}
+
+.cardColor5 {
+  background-color: rgba(198, 180, 227, 0.206) !important;
+}
+
+.cardColor6 {
+  background-color: rgba(172, 224, 199, 0.206) !important;
+}
+
+.loadingColor1 {
+  background-color: rgb(184, 184, 177) !important;
+  width: 1rem !important;
+  height: 1rem !important;
+  margin-top: 0.6rem;
+}
+
+.loadingColor2 {
+  background-color: rgb(185, 185, 159) !important;
+  width: 1.2rem !important;
+  height: 1.2rem !important;
+  margin-top: 0.5rem;
+}
+
+.loadingColor3 {
+  background-color: rgb(181, 181, 144) !important;
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+  margin-top: 0.3rem;
+}
+
+.loadingColor4 {
+  background-color: rgb(150, 128, 120) !important;
+  width: 2rem !important;
+  height: 2rem !important;
+}
+
+.spinner-grow {
+  --bs-spinner-animation-speed: 0.8s !important;
+}
+
+.textWidth {
+  max-width: 10rem;
+}
+
+.statusWidth {
+  min-width: 7rem;
+}
+
+.picturesize {
+  max-height: 6rem;
+  max-width: 6rem;
+}
+
+.warningBackground {
+  height: 20rem;
+  width: 20rem;
+}
+
+.changeFontOfWarning {
+  color: rgba(237, 97, 69, 0.557);
+  font-size: 7rem;
+}
+
+.changeWarningCharacter {
+  color: rgba(154, 111, 59, 0.77);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+  font-size: larger;
+}
+
+.moveToCard:hover {
+  transform: translateY(-0.7rem);
+}
+
+.reduceradius {
+  border-radius: unset !important;
+}

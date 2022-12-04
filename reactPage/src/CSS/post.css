@@ -1,0 +1,303 @@
+.containerchar {
+  margin-top: 2.6rem;
+}
+
+.postinfo {
+  color: rgb(130, 124, 124);
+}
+
+/* change the style of textarea */
+.textcontent {
+  resize: none;
+  border: none !important;
+  outline: none !important;
+  height: 10rem;
+}
+
+.camera {
+  color: rgb(130, 124, 124);
+  border: none;
+  background-color: inherit;
+  /* margin-left: 30%; */
+}
+
+.postbtn {
+  margin-left: -100%;
+}
+
+.uploadfile {
+  display: none !important;
+  border: none !important;
+  outline: none !important;
+}
+
+.cameracolor:hover {
+  color: rgba(128, 128, 128, 0.349);
+  cursor: pointer;
+}
+
+/* Rules for sizing the icon. */
+.material-icons.md-18 {
+  font-size: 18px;
+}
+
+.material-icons.md-24 {
+  font-size: 24px;
+}
+
+.material-icons.md-36 {
+  font-size: 36px;
+}
+
+.material-icons.md-48 {
+  font-size: 48px;
+}
+
+/* Rules for using icons as black on a light background. */
+.material-icons.md-dark {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.material-icons.md-dark.md-inactive {
+  color: rgba(0, 0, 0, 0.26);
+}
+
+/* Rules for using icons as white on a dark background. */
+.material-icons.md-light {
+  color: rgba(255, 255, 255, 1);
+}
+
+.material-icons.md-light.md-inactive {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.layoutcon {
+  margin-top: -1.5%;
+  max-height: 100%;
+}
+
+.postlist {
+  margin-top: 7%;
+}
+
+
+.deleteicon {
+  border-color: rgb(165, 20, 20);
+}
+
+#btnControl {
+  display: none;
+}
+
+#btnControl:checked + label > img {
+  width: 100%;
+  height: auto;
+}
+
+.moveicon {
+  margin-left: 2%;
+}
+
+.titleformat {
+  color: rgb(126, 121, 121) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px;
+}
+
+.distance {
+  margin-top: 2%;
+}
+
+.linewidth {
+  margin-left: 10%;
+  margin-top: 7%;
+  width: 80% !important;
+}
+
+.replyicon {
+  margin-left: 10%;
+}
+
+.replytext {
+  margin-bottom: 10%;
+}
+
+.titleName {
+  font: bold !important;
+}
+
+.endedge {
+  margin-bottom: 5rem;
+}
+
+.marginwithpost {
+  margin-bottom: 13%;
+}
+
+.reduceradius {
+  border-radius: unset !important;
+}
+
+.posttitle {
+  font-weight: bold !important;
+  color: rgb(130, 124, 124) !important;
+  font-size: 113%;
+}
+
+.deleteBecomered {
+  color: rgb(221, 60, 60);
+  border: none;
+  background-color: inherit;
+}
+
+.deleteBecomeblue {
+  color: rgba(16, 71, 234, 0.613);
+  border: none;
+  background-color: inherit;
+}
+
+.deleteBecomered:hover {
+  color: rgb(135, 14, 12);
+}
+
+.deleteBecomeblue:hover {
+  color: rgba(11, 32, 94, 0.613);
+}
+
+.deletebottonboader {
+  border-bottom: unset !important;
+}
+
+.titlecolor {
+  background-color: rgb(251, 254, 253) !important;
+}
+
+.movetext {
+  margin-left: 1%;
+}
+
+.btn-rm-outline:focus,
+.btn-rm-outline:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* chnage the alert style of the alert */
+.alertCharacter {
+  color: rgba(82, 81, 81, 0.601);
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.textBoxForPost {
+  border: none !important;
+  margin-left: -3%;
+}
+
+.moveReplay {
+  margin-top: 0.4rem !important;
+  margin-left: -1.3rem !important;
+  margin-bottom: 0.4rem !important;
+  border: none !important;
+}
+
+.textBoxForComment {
+  border: none !important;
+  margin-left: -2%;
+}
+
+.moveCommentReplay {
+  margin-top: 0.4rem !important;
+  margin-left: -2rem !important;
+  margin-bottom: 0.4rem !important;
+  border: none !important;
+}
+
+.moveUploadLable {
+  margin-left: 2%;
+}
+
+.moveCountOfComment {
+  margin-top: 0.1rem !important;
+  margin-left: -4rem;
+  color: rgb(153, 154, 158);
+  font-weight: bold;
+}
+
+.moveCountOfLike {
+  margin-top: 0.1rem !important;
+  margin-left: -1rem;
+  color: rgb(153, 154, 158);
+  font-weight: bold;
+}
+
+.moveCountOfDisLike {
+  margin-top: 0.1rem !important;
+  margin-left: -2.4rem;
+  color: rgb(153, 154, 158);
+  font-weight: bold;
+}
+
+.moveCountOfReply {
+  margin-top: 1.3rem !important;
+  color: rgb(153, 154, 158);
+  font-weight: bold;
+}
+
+.moveLikeAndDislike {
+  margin-left: -3rem;
+}
+
+.moveLikeAndDislike2 {
+  margin-left: -4rem;
+}
+
+.clickedPreferenceLike {
+  color: rgb(115, 193, 226);
+  border: none;
+  background-color: inherit;
+  /* margin-left: 30%; */
+}
+
+.clickedPreferenceLikeColor:hover {
+  color: rgb(184, 216, 229);
+  cursor: pointer;
+}
+
+.clickedPreferenceDisLike {
+  color: rgb(226, 124, 115);
+  border: none;
+  background-color: inherit;
+  /* margin-left: 30%; */
+}
+
+.clickedPreferenceDisLikeColor:hover {
+  color: rgb(240, 178, 170);
+  cursor: pointer;
+}
+
+.moveExtend {
+  margin-top: 0.12rem;
+}
+
+.moveLike {
+  margin-top: 0.1rem;
+}
+
+.moveDisLike {
+  margin-left: -1.5rem;
+}
+
+.moveAllPost {
+  margin-top: 0.67rem !important;
+}
+
+.changeLink {
+  text-decoration: none;
+  color: rgb(130, 124, 124) !important;
+}
+
+.colorHr {
+  height: 0.3rem;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}

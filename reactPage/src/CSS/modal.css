@@ -1,0 +1,36 @@
+.moveLetter {
+  margin-left: -2%;
+}
+
+.changeWarningcolour {
+  color: rgba(248, 113, 99, 0.953);
+}
+
+.reduceBoader {
+  border-radius: unset !important;
+}
+
+/* disable the scollDown */
+.hiddenscoll {
+  overflow: hidden;
+  resize: none;
+}
+
+.picturesize {
+  width: 100%;
+  height: 100%;
+}
+
+.moveImage {
+  margin-top: 4rem!important;
+}
+
+.moveImagelabel {
+  margin-bottom: -3rem!important;
+}
+
+/* chnage the character style */
+.characterModeal {
+  font-weight: bold !important;
+  color: rgb(130, 124, 124) !important;
+}

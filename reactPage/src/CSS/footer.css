@@ -1,0 +1,26 @@
+.footerback {
+  background-color: rgba(230, 226, 200, 0.637);
+}
+
+.logosize {
+  width: 7ch;
+  height: 7ch;
+}
+
+.linkcolor {
+  color: darkgrey;
+  text-decoration: none;
+}
+
+/* when mouse move on the tag change the colour */
+.colorchange:hover {
+  color: blue;
+}
+
+.moveA {
+  margin-left: 8%;
+}
+
+.moveCompany {
+  margin-right: 8%;
+}

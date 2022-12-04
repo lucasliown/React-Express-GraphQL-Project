@@ -1,0 +1,51 @@
+.reduceBoader {
+  border: none;
+  background-color: inherit;
+}
+
+.becomeRed {
+  color: rgb(221, 60, 60);
+}
+
+.becomeblue {
+  color: rgba(16, 71, 234, 0.613);
+}
+
+.accountSize {
+  font-size: 3rem;
+  color: rgb(130, 124, 124);
+}
+
+.removeundercore {
+  text-decoration: none;
+}
+
+.moveJoinDate {
+  margin-left: 40%;
+}
+
+.ProfileTitle {
+  color: rgb(41, 40, 40);
+}
+
+.moveEdit {
+  margin-top: -8%;
+}
+
+.moveProfile {
+  margin-top: 2.6rem;
+}
+
+.moveProfileLabel {
+  margin-left: 17%;
+}
+
+/* chnage the colour when mouse move  */
+.becomeRed:hover {
+  color: rgb(135, 14, 12);
+}
+
+/* unset the radius in the card */
+.reduceradius {
+  border-radius: unset !important;
+}

@@ -1,0 +1,68 @@
+/* chnage the brand style */
+.brand {
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  font-weight: bold;
+}
+
+.backgroundc {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
+
+/* change the style of welcome */
+.navWelcome {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(129, 121, 121);
+  font-weight: bold;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.dropdown-toggle:focus {
+  outline: none !important;
+  outline-style: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+.dropdown-toggle:hover {
+  outline: none !important;
+  outline-style: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+.loginUser {
+  color: rgb(130, 124, 124);
+  border: none;
+  background-color: inherit;
+  font-size: 2rem;
+}
+
+.loginUser:hover {
+  color: rgba(128, 128, 128, 0.349);
+  cursor: pointer;
+}
+
+.dropdown-menu[data-bs-popper] {
+  top: 110% !important;
+  left: -70% !important;
+  margin-top: var(--bs-dropdown-spacer);
+}
+
+.changeicon:hover {
+  color: rgb(174, 167, 167) !important ;
+}
+
+.moveTopIcon {
+  margin-top: 0.7rem;
+}
+
+.reduceradiusForNav {
+  border-radius: 0.25rem !important;
+}
+
+.changColor:hover {
+  background-color: #dedde0cf !important;
+}

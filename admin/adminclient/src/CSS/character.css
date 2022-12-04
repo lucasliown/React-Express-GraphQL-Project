@@ -1,0 +1,161 @@
+.navbarBrand {
+  color: rgb(110, 101, 135) !important;
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.tableTitle {
+  color: rgb(129, 164, 160) !important;
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.useTitle {
+  color: rgba(105, 132, 151, 0.673) !important;
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.tableHeader {
+  color: rgb(129, 164, 160) !important;
+  font-size: larger;
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.cardTitile1 {
+  color: rgb(126, 185, 170);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.cardTitile2 {
+  color: rgb(173, 174, 115);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.cardTitile3 {
+  color: rgba(167, 144, 121, 0.881);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.cardTitile4 {
+  color: rgba(117, 115, 113, 0.656);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.cardTitile5 {
+  color: rgba(120, 94, 126, 0.656);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.cardTitile6 {
+  color: rgba(113, 126, 94, 0.656);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.cardText {
+  color: rgb(105, 108, 107);
+  font-weight: bolder !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.reduceUnderline {
+  text-decoration: none !important;
+}
+
+.tableText {
+  color: rgb(154, 158, 157) !important;
+  font-size: medium !important;
+  font-weight: bold !important;
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif !important;
+}
+
+.hr-edge-weak {
+  border: 0;
+  padding-top: 10px;
+  color: #828286;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 10px 10px -10px;
+}
+
+.close {
+  color: rgb(130, 124, 124);
+  border: none;
+  background-color: inherit;
+  font-size: 2rem;
+}
+
+.close:hover {
+  color: rgba(128, 128, 128, 0.349);
+}
+
+.sizeOfDropDownToggle {
+  color: rgb(130, 124, 124);
+  border: none;
+  background-color: inherit;
+  font-size: 2rem;
+}
+
+.sizeOfDropDownToggle:hover {
+  color: rgba(128, 128, 128, 0.349);
+  cursor: pointer;
+}
+
+.reduceradiusForNav {
+  border-radius: 0.25rem !important;
+}
+
+.changColor:hover {
+  background-color: #dedde0cf !important;
+}
+
+.listCharacter {
+  font-family: Arial, Helvetica, sans-serif !important;
+  color: rgb(126, 121, 121) !important;
+  font-weight: bold !important;
+  text-decoration: none;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.dropdown-toggle:focus {
+  outline: none !important;
+  outline-style: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+.dropdown-toggle:hover {
+  outline: none !important;
+  outline-style: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+.dropdown-menu[data-bs-popper] {
+  top: 110% !important;
+  left: -70% !important;
+  margin-top: var(--bs-dropdown-spacer);
+}
+
+.moveLab {
+  margin-left: 3.5rem;
+}
+
+.changeicon:hover {
+  color: rgb(174, 167, 167) !important ;
+}
+
+.homeSize {
+  font-size: 2rem;
+  color: rgb(126, 121, 121);
+  text-decoration: none;
+}

@@ -1,0 +1,60 @@
+.move {
+  margin-top: 7rem;
+}
+
+.movelabel {
+  margin-left: 14%;
+}
+
+.cardwith {
+  width: 79rem;
+}
+
+/* use the github image as background */
+.backgroundcolour {
+  background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+  background-attachment: fixed;
+}
+
+.submit {
+  background-color: rgb(251, 254, 253);
+}
+
+.message {
+  color: LightCoral;
+  font-weight: bold;
+}
+
+.character {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(129, 121, 121);
+  font-weight: bold;
+}
+
+.smallmessage {
+  font-size: small;
+}
+
+/* change the style of message */
+.movesmallmessage {
+  margin-left: 4%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(129, 121, 121);
+  font-weight: bold;
+}
+
+.signinTitle {
+  color: rgba(41, 40, 40, 0.98);
+}
+
+.reduceradius {
+  border-radius: unset !important;
+}
+
+.sendCodeButton {
+  border: none !important;
+}
+
+.moveSendButton {
+  margin-left: 4%;
+}
