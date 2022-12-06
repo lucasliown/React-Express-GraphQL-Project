@@ -24,3 +24,14 @@ This repository contain 4 part, 2 React.js project, one express project and one 
  * Admin web application
    * Disable post 
    <br>administrator can disable a post if deemed inappropriate(Dirty word).
+   * Block User and unblock user 
+   <br>administrator blocking a user will not allow a user to login until the admin unblocks the account
+   * Number of users using social media website per day
+    <br>The bar chart will show the number of user login social media website everyday. 
+   * User post reaction metrics
+    <br>The 2 bar chart will show the count of post preference for every user. 
+   * Profile visits
+    <br>The line chart will show the number of user's profile has been visit for each user. 
+   * Top 10 Follower metrics
+    <br>The bar chart will show the Top 10 Follower of blogger in the Metrics. 
+
