@@ -7,9 +7,9 @@ This repository contain 4 part, 2 React.js project, one express project and one 
 
 ### Features:
 * Social media web application
->* Sign in
-  >> User able to use email and password to log in Social media website. User also need to pass multifactor authentication. 
->* Sign up
-  >>User need to enter name,email and password to sign up Social media website. The name,email and password can be verify by front end and back end.
->* Profile 
-  >>
+  * Sign in
+   User able to use email and password to log in Social media website. User also need to pass multifactor authentication. 
+  * Sign up
+   User need to enter name,email and password to sign up Social media website. The name,email and password can be verify by front end and back end.
+  * Profile 
+   
