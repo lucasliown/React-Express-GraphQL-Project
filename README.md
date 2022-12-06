@@ -7,20 +7,20 @@ This repository contain 4 part, 2 React.js project, one express project and one 
 
 ### Features:
 * Social media web application
-  * ###### Sign in
-   User able to use email and password to log in Social media website. User also need to pass multifactor authentication. 
-  * ###### Sign up
+  * Sign in
+   <br>User able to use email and password to log in Social media website. User also need to pass multifactor authentication. 
+  * Sign up
    <br>User need to enter name,email and password to sign up Social media website. The name,email and password can be verify by front- end and back-end.
-  * ###### Profile 
+  * Profile 
    <br>User able to see the personal detail in the profile page. User also can modify their account detail.
-  * ###### Make a Post
+  * Make a Post
     <br>User can posting their information in the posting page, such as Image, text.
-  * ###### Reply a post & reply 
+  * Reply a post & reply 
     <br>User able to reply a post or a reply.
-  * ###### Follow & Unfollow 
+  * Follow & Unfollow 
     <br>User able to follow a user or unfollow a user.
-  * ###### Post reactions
+  * Post reactions
     <br>User able to click "Like" button or "Dislike" button for post.User can share their preference for post.
  * Admin web application
-   * ###### Disable post 
+   * Disable post 
    <br>administrator can disable a post if deemed inappropriate(Dirty word).
