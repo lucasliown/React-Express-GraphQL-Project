@@ -35,3 +35,30 @@ This repository contain 4 part, 2 React.js project, one express project and one 
    * Top 10 Follower metrics
     <br>The bar chart will show the Top 10 Follower of blogger in the Metrics. 
 
+###  what to install
+Install Node v16.17.0 , NPM 8.11.0 and MySQL are necessary.
+
+###  NPM pageage:
+    react-moment
+    react-toastify
+    uuid
+    react-bootstrap
+    moment
+    moment-timezone
+    firebase
+    bootstrap
+    @emailjs/browser
+    react-quill
+    axios
+    argon2
+    jest
+    mysql2
+    sequelize
+    @graphql-tools/schema
+    apollo-server-core
+    apollo-server-express
+    bad-words
+    graphql
+    graphql-type-uuid
+    chart.js
+    react-chartjs-2
