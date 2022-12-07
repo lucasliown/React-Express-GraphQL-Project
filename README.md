@@ -38,7 +38,7 @@ This repository contain 4 part, 2 React.js project, one express project and one 
 ###  what to install
 Install Node v16.17.0 , NPM 8.11.0 and MySQL are necessary.
 
-###  NPM pageage:
+###  NPM package:
     react-moment
     react-toastify
     uuid
