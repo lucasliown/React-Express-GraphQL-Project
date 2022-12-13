@@ -37,7 +37,7 @@ This repository contain 4 part, 2 React.js project, one express project and one 
 
 ### How and what to install
 * Install Node v16.17.0 , NPM 8.11.0 and MySQL are necessary.
-* go into directory "./expressapp","./reactPage","./admin/adminServer","./admin/adminclient" and run command "npm install" in the terminal.
+* Go into directory "./expressapp","./reactPage","./admin/adminServer","./admin/adminclient" and run command "npm install" in the terminal.
 * After finishing install package, run command "npm start" in directory "./admin/adminclient","./reactPage".
 * Run run command "node server.js" in directory "./admin/adminServer","./expressapp".
 
